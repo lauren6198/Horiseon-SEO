@@ -74,9 +74,9 @@ p {
     float: right;
     margin-left: 25px;
 }
-/*Setting float and margin styling for content sections start*/
+/*Setting float and margin styling for content sections end*/
 
-/*Content 'benefit' section styling start*/
+/*'benefit' content section styling start*/
 .content {
     width: 75%;
     display: inline-block;
@@ -111,9 +111,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*Content 'benefit' section styling ends*/
+/*'benefit' content section styling ends*/
 
-/*Content 'Search Engine Optimization' section styling starts*/
+/*'Search Engine Optimization' content section styling starts*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,9 +122,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Content 'Search Engine Optimization' section styling ends*/
+/*'Search Engine Optimization' content section styling ends*/
 
-/*Content 'Online Reputation Management' section styling starts*/
+/*'Online Reputation Management' content section styling starts*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -133,9 +133,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Content 'Online Reputation Management' section styling ends*/
+/*'Online Reputation Management' content section styling ends*/
 
-/*Content 'Social Media Marketing' section styling starts*/
+/*'Social Media Marketing' content section styling starts*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,8 +144,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Content 'Social Media Marketing' section styling ends*/
+/*'Social Media Marketing' content section styling ends*/
 
+/*Above listed content section's image and text styling starts*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +173,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Above listed content section's image and text styling ends*/
 
+/*Footer content section styling starts*/
 .footer {
     padding: 30px;
     clear: both;
@@ -183,3 +186,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*Footer content section styling ends*/
